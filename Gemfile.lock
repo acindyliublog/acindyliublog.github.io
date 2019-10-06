@@ -72,6 +72,3 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-sitemap
   tzinfo-data
-
-BUNDLED WITH
-   2.0.2
